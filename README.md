@@ -20,15 +20,6 @@ lcp --proxyUrl https://wishandcook.com/api/v1
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# proxy for wish and cook command: lcp --proxyUrl https://wishandcook.com/api/v1
 
 
 
-##### TO RUN THE FRONT END
-
-## 1st terminal
-npm run dev
-
-## 2nd terminal (to access recipes api)
-
-lcp --proxyUrl https://wishandcook.com/api/v1
