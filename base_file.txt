@@ -1,0 +1,22 @@
+"use client";
+import { useTranslation } from "@wac/app/i18n/client";
+
+
+interface PropsType {
+    params: { lng: string };
+}
+
+export default function Example({ params: { lng } }: PropsType) {
+    const { t } = useTranslation(lng, "home");
+
+    return (
+        <>
+        
+        </>
+    );
+}
+
+
+endpoint for recipes, ver website original / selecionar portugal -> loja, filtrar e ver url , ha ?allergies= ... , etc etc
+
+https://wishandcook.com/api/v1/recipes

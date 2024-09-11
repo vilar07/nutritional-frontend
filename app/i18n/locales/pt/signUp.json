@@ -1,0 +1,11 @@
+{
+    "title": "Criar uma conta",
+    "email": "Email",
+    "password": "Senha",
+    "password_confirmation": "Confirmação de senha",
+    "accept": "Aceito os",
+    "terms": "Termos de uso",
+    "create": "Criar conta",
+    "already": "Já possui uma conta?",
+    "login": "Entrar"
+}

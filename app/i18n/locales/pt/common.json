@@ -1,0 +1,13 @@
+{
+  "navbar": {
+    "home": "Página Inicial",
+    "second": "Segunda Página",
+    "dashboard": "Painel",
+    "about": "Sobre nós",
+    "services": "Serviços",
+    "pricing": "Preços",
+    "contacts": "Contactos",
+    "signup": "Inscrever-se",
+    "signin": "Entrar"
+  }
+}

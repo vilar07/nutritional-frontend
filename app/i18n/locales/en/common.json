@@ -1,0 +1,13 @@
+{
+  "navbar": {
+    "home": "Home",
+    "second": "Second Page",
+    "dashboard": "Dashboard",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contacts": "Contacts",
+    "signin": "Sign In",
+    "signup": "Sign Up"
+  }
+}

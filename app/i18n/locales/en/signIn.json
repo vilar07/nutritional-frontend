@@ -1,0 +1,11 @@
+{
+    "title": "Sign In",
+    "subtitle": "Sign in to our platform",
+    "email": "Your email",
+    "password": "Your password",
+    "remember": "Remember me",
+    "lostPassword": "Lost Password?",
+    "loginToYourAccount": "Login to your account",
+    "createAccount": "Create account",
+    "notRegistered": "Not registered yet?"
+}

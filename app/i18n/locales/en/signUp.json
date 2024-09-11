@@ -1,0 +1,11 @@
+{
+    "title": "Create an account",
+    "email": "Your email",
+    "password": "Password",
+    "password_confirmation": "Confirm password",
+    "accept": "I accept the",
+    "terms": "Terms and Conditions",
+    "create": "Create an account",
+    "already": "Already have an account?",
+    "login": "Login here"
+}
